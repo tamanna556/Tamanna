@@ -37,9 +37,9 @@ var callback = () => api.sendMessage({body:`
 𝐀𝐠𝐞           : 𝟏𝟖+
 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 : 𝐒𝐢𝐧𝐠𝐥𝐞
 𝐖𝐨𝐫𝐤        : 𝐒𝐭𝐮𝐝𝐞𝐧𝐭
-𝐆𝐦𝐚𝐢𝐥       : 
-𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: 
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  : 
+𝐆𝐦𝐚𝐢𝐥       : mdshaahlomislam1668@gmail.com
+𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: 01328091668
+𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  : Shaahlom islam/01328091668/chat bot
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤 : https://www.facebook.com/profile.php?id=61556167296208`,attachment: fs.createReadStream(__dirname + "/cache/1.png")}, event.threadID, () => 
     fs.unlinkSync(__dirname + "/cache/1.png"));  
       return request(encodeURI(`https://i.postimg.cc/qRTDf9VS/VPN-creation-8728d76a-dd80-4c75-9f40-90b378f451b2.jpg`)).pipe(
